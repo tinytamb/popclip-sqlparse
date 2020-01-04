@@ -10,7 +10,7 @@
 				<key>Image File</key>
 				<string>icon.png</string>
 				<key>Shell Script File</key>
-				<string>sqlparse.py</string>
+				<string>popclip-run.py</string>
 				<key>Title</key>
 				<string>sqlparse</string>
 				<key>Script Interpreter</key>
