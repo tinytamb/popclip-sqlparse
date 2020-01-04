@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>After</key>
+				<string>copy-result</string>
+				<key>Image File</key>
+				<string>icon.png</string>
+				<key>Shell Script File</key>
+				<string>sqlparse.py</string>
+				<key>Title</key>
+				<string>sqlparse</string>
+				<key>Script Interpreter</key>
+				<string>/usr/bin/python3</string>
+			</dict>
+		</array>
+		<key>Credits</key>
+		<array>
+			<dict>
+				<key>Link</key>
+				<string>https://github.com/tinytamb/</string>
+				<key>Name</key>
+				<string>mz</string>
+			</dict>
+		</array>
+		<key>Extension Identifier</key>
+		<string>com.tinytamb.popclip.extension.sqlparse</string>
+		<key>Extension Description</key>
+		<string>Format the selected sql using python-sqlparse.</string>
+		<key>Extension Name</key>
+		<string>sqlparse</string>
+		<key>Required Software Version</key>
+		<integer>1459</integer>
+	</dict>
+</plist>
