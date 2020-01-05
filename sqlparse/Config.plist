@@ -15,6 +15,8 @@
 				<string>sqlparse</string>
 				<key>Script Interpreter</key>
 				<string>/usr/bin/python3</string>
+				<key>Regular Expression</key>
+				<string>(?i)(?s)^(select|update|insert|delete).+</string>
 			</dict>
 		</array>
 		<key>Credits</key>
